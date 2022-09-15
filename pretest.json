@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Constant head permeability test can be used for ___________.",
+      "answers": {
+        "a": "Coarse-grained soil",
+        "b": "Highly permeable soil",
+        "c": "Clayey soil",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following formula is used in Constant head permeability test?",
+      "answers": {
+        "a": "Jacky’s formula",
+        "b": "Louden’s formula",
+        "c": "Darcy’s law",
+        "d": "Kozney’s formula"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "In constant head permeability test apparatus, the water head at any time instant is equal to ____________.",
+      "answers": {
+        "a": "Difference in the water level in manometers",
+        "b": "Cross-sectional area of pipe",
+        "c": "Height of permeameter",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "In constant permeability test, the length of specimen is measured by ___________.",
+      "answers": {
+        "a": "Using measuring scale",
+        "b": "Calculating the difference in water level",
+        "c": "Using Piezometric tube",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The constant head permeability test is used for ___________.",
+      "answers": {
+        "a": "Fine-grained soil",
+        "b": "Saturated soil",
+        "c": "Clay soil",
+        "d": "Coarse-grained soil"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The laboratory observation constant head test consist of measurements of ____________.",
+      "answers": {
+        "a": "Delta H and discharge Q",
+        "b": "Only t1 and t2",
+        "c": "h1 at an interval of t1 and h2 at an interval of t2",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following tubes are used in the constant head test?",
+      "answers": {
+        "a": "Inlet tube",
+        "b": "Overflow tube",
+        "c": "Outlet tube",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the range of permeability of sandy soil in cm/hr.",
+      "answers": {
+        "a": "0.001 to 0.01",
+        "b": "0.01 to 0.1",
+        "c": "0.1 to 1",
+        "d": "1 to 10"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the device used to measure the head difference in the permeameter",
+      "answers": {
+        "a": "Manometer",
+        "b": "Barometer",
+        "c": "Hydrometer",
+        "d": "Anemometer"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Why is a steady flow in outlet important while conducting the experiment?",
+      "answers": {
+        "a": "To ensure laminar flow",
+        "b": "To make sure the velocity of water through the soil is constant at all sections",
+        "c": "To ensure the inflow of water has constant head",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
