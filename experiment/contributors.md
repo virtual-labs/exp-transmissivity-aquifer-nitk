@@ -8,6 +8,6 @@
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
-|  1   | Anusha B Salian | NITK |
+|  1   | Saisree | NITK |
 |  2   | Ashika Pai | NITK |
-|  3   | Mahima N  | NITK |
+|  3   | Akshaya  | NITK | 
