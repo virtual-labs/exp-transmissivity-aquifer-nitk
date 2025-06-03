@@ -4,8 +4,8 @@
 </p>
 
 <ol style="text-indent:50px;text-align:justify;list-style-position: inside;">
-<li>To assess the efficiency of the construction of a fan.</li>
-<li>To compare two or more fan.</li>
+<li>Constant head method </li>
+<li>Falling Head method </li>
 </ol>
 
 <p style="text-indent:50px;text-align:justify">As we are dealing with soils in and around aquifers, where the soil is usually highly permeable, we will perform constant head test.</p>
