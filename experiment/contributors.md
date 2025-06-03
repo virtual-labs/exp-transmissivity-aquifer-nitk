@@ -10,4 +10,3 @@
 | :--: | :-- | :-------: |
 |  1   | Saisree | NITK |
 |  2   | Ashika Pai | NITK |
-|  3   | Akshaya  | NITK | 
