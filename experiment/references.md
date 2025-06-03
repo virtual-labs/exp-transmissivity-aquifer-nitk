@@ -12,7 +12,6 @@
     <ul style="list-style-type: none;">
       <li>Saisree | NITK</li>
       <li>Ashika Pai | NITK</li>
-      <li>Akshaya | NITK</li>
     </ul></td>
   </tr>
 </table>
