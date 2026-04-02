@@ -1,0 +1,1 @@
+To determine the transmissivity of a highly permeable soil in an aquifer and thereby evaluate the pumping characteristics of the aquifer.
