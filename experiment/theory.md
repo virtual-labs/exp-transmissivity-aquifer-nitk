@@ -16,7 +16,7 @@
 
 #### Darcy's Law
 
-<p style="text-indent:50px;text-align:justify;">Darcy's law describes the laminar flow of fluid through a homogeneous soil medium and states that the velocity of flow (v) is directly proportional to the hydraulic gradient (i). Thus,</p>
+<p style="text-indent:50px;text-align:justify;">Darcy's law, formulated by Henry Darcy, describes the laminar flow of fluid through a homogeneous soil medium and states that the velocity of flow (v) is directly proportional to the hydraulic gradient (i). Thus,</p>
 <center>v=ki</center>
 
 <p style="text-align:justify;">Where, k is a constant known as the coefficient of permeability. The velocity v is also referred to as the superficial velocity or discharge velocity.</p>
