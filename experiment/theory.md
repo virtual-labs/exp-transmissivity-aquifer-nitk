@@ -38,22 +38,22 @@ Hence, the coefficient of permeability can be defined as the velocity of flow th
 ##### Formulas Used
 
 1. <center>K = Q*L*t*A*∆H</center>
-&nbsp;&nbsp;&nbsp;Where, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q=amount of water collected in graduated cylinder,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L = Distance between base of manometers,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t = fixed time interval for collection of water,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A = Area of the mould,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∆H = Difference in energy between both manometer levels<br><br>
+Where, </br>
+Q=amount of water collected in graduated cylinder,</br>
+L = Distance between base of manometers,</br>
+t = fixed time interval for collection of water,</br>
+A = Area of the mould,</br>
+∆H = Difference in energy between both manometer levels<br><br>
 
 2. <center>K<sup>27</sup> = KT(μ<sup>T</sup>/μ<sup>27</sup>)</center>
-&nbsp;&nbsp;&nbsp;Where, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;μ<sup>T</sup> = coefficient of viscosity at T degree Celsius,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;μ<sup>27</sup> = coefficient of viscosity at 27 degree Celsius <br><br>
+Where, </br>
+μ<sup>T</sup> = coefficient of viscosity at T degree Celsius,</br>
+μ<sup>27</sup> = coefficient of viscosity at 27 degree Celsius <br><br>
 
 3. <center>T = KD</center>
-&nbsp;&nbsp;&nbsp;Where, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K = coefficient of permeability,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D = Aquifer thickness
+Where, </br>
+K = coefficient of permeability,</br>
+D = Aquifer thickness</br>
 
 #### Aquifers
 
